@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:daUJ617Cx6qed0cT@aidi-cargo1530.wef81.mongodb.net/?retryWrites=true&w=majority&appName=aidi-cargo1530",
+    "secretKey" : "mern-secret-key"
+}
